@@ -1,0 +1,48 @@
+body {
+  background-color: #06080C;
+  font-family: "Inter", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+input,
+button,
+select,
+textarea {
+  border: none;
+  outline: none;
+  background: none;
+  font: inherit;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+body, html {
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
